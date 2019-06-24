@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en-US">
 
   <h1>GemXploit</h1>
